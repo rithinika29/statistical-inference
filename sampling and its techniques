@@ -1,0 +1,69 @@
+### Population
+
+**Definition**: A population is the entire group of individuals or items that you are interested in studying. It includes all possible observations or outcomes that are of interest in a particular study.
+
+**Example**:
+
+- If you want to study the average height of all high school students in a country, the population would be every high school student in that country.
+
+### Sample
+
+**Definition**: A sample is a subset of the population that is selected for the actual study. It is a smaller group taken from the population that represents the population.
+
+**Example**:
+
+- Continuing with the previous example, if you select 500 high school students from different schools across the country to measure their heights, this group of 500 students is your sample.
+
+# SAMPLING TECHNIQUES
+
+# A.PROBABILITY SAMPLING TECHNIQUES
+
+### 1. **Simple Random Sampling**
+
+- **Description**: Every member of the population has an equal chance of being selected.
+- **Method**: Use random number generators or drawing names from a hat.
+- **Example**: Assigning a number to each student in a school and using a random number generator to select 50 students.
+
+### 2. **Stratified Sampling**
+
+- **Description**: The population is divided into strata (subgroups) that share similar characteristics. A random sample is then taken from each stratum.
+- **Method**: Identify strata (e.g., age groups, income levels), then randomly sample within each stratum.
+- **Example**: Dividing a population into male and female groups and then randomly selecting equal numbers from each group.
+
+### 3. **Cluster Sampling**
+
+- **Description**: The population is divided into clusters (groups), usually based on geography or another natural grouping. Entire clusters are randomly selected, and all members of selected clusters are included in the sample.
+- **Method**: Identify clusters, randomly select clusters, survey all individuals within selected clusters.
+- **Example**: Selecting random classrooms in a school and including all students from those classrooms in the sample.
+
+### 4. **Systematic Sampling**
+
+- **Description**: Every nth member of the population is selected after a random starting point.
+- **Method**: Choose a starting point randomly and then select every nth individual.
+- **Example**: From a list of 1000 names, start at a random point and pick every 10th name.
+
+# B.NON-PROBABILITY SAMPLING TECHNIQUES
+
+### 1. **Convenience Sampling**
+
+- **Description**: Samples are taken from a group that is conveniently accessible.
+- **Method**: Select individuals who are easiest to reach.
+- **Example**: Surveying people at a shopping mall or using students in a nearby classroom.
+
+### 2. **Judgmental (or Purposive) Sampling**
+
+- **Description**: The sample is selected based on the judgment of the researcher.
+- **Method**: The researcher uses their expertise to choose the most useful respondents.
+- **Example**: Selecting experts in a field for a specialized survey.
+
+### 3. **Snowball Sampling**
+
+- **Description**: Existing study subjects recruit future subjects from among their acquaintances.
+- **Method**: Start with a small group of known individuals, then ask them to refer others.
+- **Example**: Surveying members of a specific community or network where subjects refer others to participate.
+
+### 4. **Quota Sampling**
+
+- **Description**: The researcher ensures certain characteristics are represented in the sample to a certain extent.
+- **Method**: Divide the population into subgroups and then use a non-random method to fill quotas from each subgroup.
+- **Example**: Ensuring 40% of the sample are women, 60% are men, based on population characteristics.
