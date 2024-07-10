@@ -1,0 +1,43 @@
+# STATISTICAL INFERENCE
+
+### It's like making a smart guess or conclusion or prediction about a big group of things by looking at just a few of them.
+
+EXAMPLE :
+Imagine you have a huge jar full of candies. You want to know how many candies in the jar are red, but you don't want to count all of them because there are too many. So, you take out a small handful of candies to look at.
+
+Jar of Candies: The big jar is like the whole group (or "population") of candies.
+Handful of Candies: The handful you take out is like a small part (or "sample") of the big group.
+Counting Red Candies: You count how many red candies are in your small handful. Let's say you have 10 candies in your hand, and 4 of them are red.
+Making a Smart Guess: If 4 out of 10 candies in your hand are red, you might guess that about the same portion of all the candies in the big jar are red. So, if the jar has 100 candies, you might guess that around 40 of them are red.
+
+# TYPES OF STATISTICS
+
+## DESCRIPTIVE STATS:
+
+### Descriptive statistics summarize and describe the features of a dataset. They provide simple summaries about the sample and the measures.
+
+Purpose: To describe and summarize data.
+Methods:
+Measures of Central Tendency: Mean, median, mode.
+Measures of Dispersion: Range, variance, standard deviation, interquartile range.
+Graphical Representations: Histograms, bar charts, pie charts, box plots.
+Data Scope: Focuses only on the data available (the sample or the population).
+Examples:
+The average age of students in a class.
+The distribution of test scores.
+The percentage of voters who prefer a particular candidate.
+
+## INFERENTIAL STATS:
+
+### Inferential statistics make inferences and predictions about a population based on a sample of data. They allow researchers to draw conclusions beyond the immediate data alone.
+
+Purpose: To make generalizations, predictions, and decisions about a population based on sample data.
+Methods:
+Hypothesis Testing: Testing assumptions (null and alternative hypotheses) using tests such as t-tests, chi-square tests, ANOVA.
+Confidence Intervals: Estimating the range within which a population parameter lies with a certain level of confidence.
+Regression Analysis: Modeling relationships between variables.
+Data Scope: Uses sample data to make inferences about a larger population.
+Examples:
+Estimating the average height of all adults in a country based on a sample.
+Testing whether a new drug is more effective than the existing one.
+Predicting future sales based on past data.
